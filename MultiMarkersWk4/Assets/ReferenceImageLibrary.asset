@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4988110198665015837
+  m_GuidHigh: 777581194925587353
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5413314475176493231
+      m_GuidHigh: 6086776495941830066
+    m_SerializedTextureGuid:
+      m_GuidLow: 14170879663371862753
+      m_GuidHigh: 12015022984260475961
+    m_Size: {x: 0.1, y: 0.14883721}
+    m_SpecifySize: 1
+    m_Name: ace
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4961127249932521039
+      m_GuidHigh: 18227336573651727263
+    m_SerializedTextureGuid:
+      m_GuidLow: 9527819603840857624
+      m_GuidHigh: 8047920791391808795
+    m_Size: {x: 0.1, y: 0.1509434}
+    m_SpecifySize: 1
+    m_Name: king
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4750428223603069633
+      m_GuidHigh: 6080922873923663491
+    m_SerializedTextureGuid:
+      m_GuidLow: 14158762841045311291
+      m_GuidHigh: 8393239332076210203
+    m_Size: {x: 0.1, y: 0.15238096}
+    m_SpecifySize: 1
+    m_Name: queen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5280119696560883920
+      m_GuidHigh: 2373627378002080416
+    m_SerializedTextureGuid:
+      m_GuidLow: 7229726254852638797
+      m_GuidHigh: 2744140506912047082
+    m_Size: {x: 0.1, y: 0.15458937}
+    m_SpecifySize: 1
+    m_Name: jack
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4915252215329625606
+      m_GuidHigh: 14374698993279650466
+    m_SerializedTextureGuid:
+      m_GuidLow: 10708490325603694243
+      m_GuidHigh: 16326221231245070729
+    m_Size: {x: 0.1, y: 0.1509434}
+    m_SpecifySize: 1
+    m_Name: ten
+    m_Texture: {fileID: 0}
